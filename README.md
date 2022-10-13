@@ -24,7 +24,7 @@ Our vision is to be a hub of student-led innovation, inspiring technological gro
 
  - Provide a safe space for learning opportunities among our members.
  - Support each other as we develop our skills together.
- - Connect individuals with differing backgrounds to promote interdiscplinary technological partnerships.
+ - Connect individuals with differing backgrounds to promote interdisciplinary technological partnerships.
 
 #### Bridge the Gap Between Theory and Practice: Keep It Real
 
@@ -172,7 +172,7 @@ GDSC WMU will not discriminate on the basis of race, color, religion, national o
 An amendment may be made to this constitution through the following process:
 
  1. A Member in good standing may submit an amendment proposal to the Elected Officers by making a pull request to this GitHub repository and alerting the Elected Officers that an amendment proposal has been submitted.
- 2. The amendment proposal shall be read at the next GSDSWMU meeting.
+ 2. The amendment proposal shall be read at the next GSDS WMU meeting.
  3. Comments shall be solicited from all Members in good standing during the intervening time between the meeting at which the amendment proposal was read and the next GDSC WMU meeting.
  4. After the comment period has concluded, a vote will be held at the next GDSC WMU meeting. Such a vote requires the majority of all Elected Officers present at the meeting and all absentee ballots from Elected Officers collected before such a meeting. If such a vote determines that the membership of the individual in question should be terminated, they will be notified via email and blacklisted.
  5. If the vote conducted in step 4 determines that the amendment proposal should be accepted, the pull request must be accepted, and the amendment proposal becomes binding.
@@ -183,4 +183,4 @@ GDSC WMU shall hold regularly scheduled public meetings not less than once a mon
 
 ## Article VIII: Advisors
 
-GSDCWMU will have an adviser selected by the Elected Officers from among faculty or staff who wish to advise GDSC WMU. They shall be responsible for advising GDSC WMU as a registered student organization at WMU. They shall serve for as long as they and the Elected Officers see fit.
+GSDC WMU will have an adviser selected by the Elected Officers from among faculty or staff who wish to advise GDSC WMU. They shall be responsible for advising GDSC WMU as a registered student organization at WMU. They shall serve for as long as they and the Elected Officers see fit.
