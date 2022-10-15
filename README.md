@@ -52,7 +52,7 @@ Coordinating Officers are Members who have the responsibility of supporting GDSC
 
 #### Mentor
 
-Mentors are Members who have the responsibility of acting as a mentor for GDSC WMU and its Members in their area of specialization. The length of membership for a Mentor is from the time they are admitted until the end of the semester.
+Mentors are Members who have the responsibility of acting as a guide and teacher for GDSC WMU and its Members in their area of specialization. The length of membership for a Mentor is from the time they are admitted until the end of the semester.
 
 #### Elected Officer
 
@@ -99,7 +99,7 @@ An individual's membership may be considered for termination if any of the follo
 
 If an individual's membership is terminated for reasons 1 or 2, that individual is no longer a Member, Coordinating Officer,  Mentor, or Elected Officer of GDSC WMU. If an individual's membership is terminated for reason 3, that individual is no longer an Elected Officer of GDSC WMU but retains any other memberships they may hold.
 
-If an individual's membership is under consideration for termination, they will be notified by email. If, after such a notification has been sent and a reasonable amount of time has passed, they are still found to be meeting any of the three reasons described above that may warrant termination of membership, a vote will be held at the next GDSC WMU meeting. Such a vote requires the majority of all Elected Officers present at the meeting and all absentee ballots from Elected Officers collected before such a meeting. If such a vote determines that the membership of the individual in question should be terminated, they will be notified via email and blacklisted.
+If an individual's membership is under consideration for termination, they will be notified by email. If, after such a notification has been sent and a reasonable amount of time has passed, they are still found to be meeting any of the three reasons described above that may warrant termination of membership, a vote will be held at the next GDSC WMU meeting. Such a vote requires the majority of all Elected Officers present at the meeting and all absentee ballots from Elected Officers collected before such a meeting. If such a vote determines that the membership of the individual in question should be terminated, they will be notified via email and the appropriate measures will be taken.
 
 ## Article III: Officers
 
@@ -131,7 +131,7 @@ Directs and oversees the outreach of GDSC WMU, with responsibilities including b
 
 #### Social and Community Service Director
 
-Directs and oversees GDSC WMU’s commitment to social good, with responsibilities including but not limited to planning and executing events that cater to the cause of social good, determining strategies and methods whereby the Members can help solve local issues, and reaching out to third-party entities for purposes that cater to social good.
+Directs and oversees GDSC WMU’s commitment to social good, with responsibilities including but not limited to planning and executing events that cater to the cause of social good, determining strategies and methods whereby Members can help solve local issues, and reaching out to third-party entities for purposes that cater to social good.
 
 #### Communications and Internal Affairs Director
 
@@ -139,7 +139,7 @@ Directs and oversees the internal structure of GDSC WMUU, with responsibilities 
 
 #### Finance Director
 
-Directs and oversees all financial activities of the chapter, with responsibilities including but not limited to managing the bank account of GDSC WMU, determining the budgeting schemas of GDSC WMU, and managing the financial income of GDSC WMU.
+Directs and oversees all financial activities of the chapter, with responsibilities including but not limited to managing the bank account of GDSC WMU, determining GDSC WMU's budgeting schemas, and managing the financial income of GDSC WMU.
 
 #### Web Development Director
 
@@ -155,7 +155,26 @@ In the case of an Elected Officer's position becoming vacant, the Lead will sele
 
 ## Article IV: Finances
 
-To be completed by Finance Director
+### Section A. On-campus Accounts
+
+GDSC WMU will dutifully follow and be subject to all University policies, procedures, and practices regarding student organization accounts and finances. If GDSC WMU disbands, by policy all SAF funds in GDSC WMU will revert to the University.
+
+### Section B. Non-WMU Bank Accounts
+
+GDSC WMU will perform banking transactions with \[either US Bank or Bluevine\] for non-university funds.
+
+### Section C. Dues, Assessments, or Initiation Fees
+
+GDSC WMU will collect registration fees for notable events and are open to accept gifts and donations, but will not seek to collect any fees with regards to membership status.
+
+### Section D. Financial Policy
+
+GDSC WMU will have financial books and records audited at least once a year.
+Officers designated as responsible for financial matters under the name of GDSC WMU will attend University financial workshops as required.
+
+### Section E. Disposition of Non-University Funds in the Case of Inactivation
+
+For non-University funds kept in a non-WMU bank account, a provision for the handling of monies will be included if GDSC WMU dissolves or is inactive. If GDSC WMU ceases to exist, funds will not be kept in non-WMU bank accounts. Some examples are as follows: “name of WMU department, local non-profit, or related national headquarters."
 
 ## Article V: Statement of Compliance and Nondiscrimination Policy
 
