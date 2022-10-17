@@ -161,7 +161,7 @@ GDSC WMU will dutifully follow and be subject to all University policies, proced
 
 ### Section B. Non-WMU Bank Accounts
 
-GDSC WMU will perform banking transactions with \[either US Bank or Bluevine\] for non-university funds.
+GDSC WMU will perform banking transactions with US Bank for non-university funds.
 
 ### Section C. Dues, Assessments, or Initiation Fees
 
@@ -174,7 +174,7 @@ Officers designated as responsible for financial matters under the name of GDSC 
 
 ### Section E. Disposition of Non-University Funds in the Case of Inactivation
 
-For non-University funds kept in a non-WMU bank account, a provision for the handling of monies will be included if GDSC WMU dissolves or is inactive. If GDSC WMU ceases to exist, funds will not be kept in non-WMU bank accounts. Some examples are as follows: “name of WMU department, local non-profit, or related national headquarters."
+For non-University funds kept in a non-WMU bank account, a provision for the handling of monies will be included if GDSC WMU dissolves or is inactive. If GDSC WMU ceases to exist, funds will not be kept in non-WMU bank accounts. Instead, the funds will be transferred to the Google Developers programme.
 
 ## Article V: Statement of Compliance and Nondiscrimination Policy
 
